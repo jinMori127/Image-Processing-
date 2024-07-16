@@ -1,5 +1,3 @@
-# Sami_Serhan, 327876298
-# Jwana_Aboleil, 318696317
 
 import cv2
 import numpy as np
