@@ -1,5 +1,3 @@
-# Ayal_Kaabia, 322784760
-# Sami_Serhan, 327876298
 
 # Please replace the above comments with your names and ID numbers in the same format.
 import cv2
